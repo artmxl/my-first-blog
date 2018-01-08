@@ -124,7 +124,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # Настройки почтового сервера
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_HOST_USER = 'artmxl@yandex.ru'
-EMAIL_HOST_PASSWORD = 'xtheghcfx'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 465
 EMAIL_USE_SSL = True
 DEFAULT_FROM_EMAIL = 'artmxl@yandex.ru'
